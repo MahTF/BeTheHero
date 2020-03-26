@@ -1,4 +1,4 @@
-# BeTheHero
+![Be The Hero](./frontend/src/assets/logo.svg)
 
 Projeto Omnistack 11.
 
@@ -11,3 +11,7 @@ O projeto foi feito durante a _Semana OmniStack 11.0_ que a [RocketSeat](https:/
 #### Ao baixar o repositorio
 
 Ao descarregar-lo, utilize `npm install` e após isso, utilize `npm start`
+
+![Seja você também um héroi!](./frontend/src/assets/heroes.png)
+
+_Imagens concedidas pela [RocketSeat](https://rocketseat.com.br/)_
